@@ -277,7 +277,7 @@ proxy-groups:
   - SG
   - Final
   - DIRECT
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Facebook.png
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
 
 - name: Speedtest
   type: select
